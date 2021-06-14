@@ -1,6 +1,6 @@
 # Project-GPA-calculator
 -------------------------
-**This is WPF project of college GPA calculator. In this app:**
+**This is a WPF project for calculating college GPA. In this app:**
 * User can create, read, update and Delete courses related values in grid. 
 * User can calculate GPA.
 * User can store value by using SQL Server Profiler
