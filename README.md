@@ -8,7 +8,9 @@
 ![Basic Pizza Order System](./screenShot.gif?raw=true)
 
 Practice scopes:
-* Menu control
-* Checkbox, spinner, radio buttons, number picker
-* Passing value through intent
-* Desrialize and serialize class instance
+* Loading page
+* Buttons, ComboBox, labels, Textboxes, Radio Buttons, PictureBox, TableLayout
+* Dictionary, Queue
+* CRUD functionality
+* Binding gridview with text box
+* Connect to SQL Server Profiler 
