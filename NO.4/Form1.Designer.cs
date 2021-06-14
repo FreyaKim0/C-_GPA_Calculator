@@ -123,7 +123,7 @@
             // 
             creditLabel.AutoSize = true;
             creditLabel.ForeColor = System.Drawing.Color.Maroon;
-            creditLabel.Location = new System.Drawing.Point(179, 55);
+            creditLabel.Location = new System.Drawing.Point(176, 55);
             creditLabel.Name = "creditLabel";
             creditLabel.Size = new System.Drawing.Size(44, 13);
             creditLabel.TabIndex = 6;
@@ -135,7 +135,7 @@
             professorLabel.ForeColor = System.Drawing.Color.Maroon;
             professorLabel.Location = new System.Drawing.Point(3, 55);
             professorLabel.Name = "professorLabel";
-            professorLabel.Size = new System.Drawing.Size(54, 26);
+            professorLabel.Size = new System.Drawing.Size(61, 13);
             professorLabel.TabIndex = 10;
             professorLabel.Text = "* Professor:";
             // 
@@ -143,7 +143,7 @@
             // 
             noteLabel.AutoSize = true;
             noteLabel.ForeColor = System.Drawing.SystemColors.ControlDark;
-            noteLabel.Location = new System.Drawing.Point(179, 83);
+            noteLabel.Location = new System.Drawing.Point(176, 83);
             noteLabel.Name = "noteLabel";
             noteLabel.Size = new System.Drawing.Size(33, 13);
             noteLabel.TabIndex = 12;
@@ -153,7 +153,7 @@
             // 
             gradeLabel.AutoSize = true;
             gradeLabel.ForeColor = System.Drawing.Color.Maroon;
-            gradeLabel.Location = new System.Drawing.Point(179, 27);
+            gradeLabel.Location = new System.Drawing.Point(176, 27);
             gradeLabel.Name = "gradeLabel";
             gradeLabel.Size = new System.Drawing.Size(46, 13);
             gradeLabel.TabIndex = 20;
@@ -165,7 +165,7 @@
             semesterLabel1.ForeColor = System.Drawing.Color.Maroon;
             semesterLabel1.Location = new System.Drawing.Point(3, 83);
             semesterLabel1.Name = "semesterLabel1";
-            semesterLabel1.Size = new System.Drawing.Size(54, 26);
+            semesterLabel1.Size = new System.Drawing.Size(61, 13);
             semesterLabel1.TabIndex = 21;
             semesterLabel1.Text = "* Semester:";
             // 
@@ -401,10 +401,10 @@
             // tableLayoutPanel1
             // 
             this.tableLayoutPanel1.ColumnCount = 4;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 37.76596F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 62.23404F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 45.71429F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 54.28571F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 60F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 210F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 213F));
             this.tableLayoutPanel1.Controls.Add(this.creditNumericUpDown, 3, 2);
             this.tableLayoutPanel1.Controls.Add(this.idLabel1, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.grade, 3, 1);
@@ -432,7 +432,7 @@
             // 
             // creditNumericUpDown
             // 
-            this.creditNumericUpDown.Location = new System.Drawing.Point(239, 58);
+            this.creditNumericUpDown.Location = new System.Drawing.Point(236, 58);
             this.creditNumericUpDown.Name = "creditNumericUpDown";
             this.creditNumericUpDown.Size = new System.Drawing.Size(44, 20);
             this.creditNumericUpDown.TabIndex = 49;
@@ -443,7 +443,7 @@
             this.idLabel1.Depth = 0;
             this.idLabel1.Font = new System.Drawing.Font("Roboto", 11F);
             this.idLabel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(222)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.idLabel1.Location = new System.Drawing.Point(69, 0);
+            this.idLabel1.Location = new System.Drawing.Point(82, 0);
             this.idLabel1.MouseState = MaterialSkin.MouseState.HOVER;
             this.idLabel1.Name = "idLabel1";
             this.idLabel1.Size = new System.Drawing.Size(13, 19);
@@ -463,7 +463,7 @@
             "C+",
             "D",
             "F"});
-            this.grade.Location = new System.Drawing.Point(239, 30);
+            this.grade.Location = new System.Drawing.Point(236, 30);
             this.grade.Name = "grade";
             this.grade.Size = new System.Drawing.Size(44, 21);
             this.grade.TabIndex = 47;
@@ -472,7 +472,7 @@
             // 
             this.noteTextBox.Depth = 0;
             this.noteTextBox.Hint = "";
-            this.noteTextBox.Location = new System.Drawing.Point(239, 86);
+            this.noteTextBox.Location = new System.Drawing.Point(236, 86);
             this.noteTextBox.MouseState = MaterialSkin.MouseState.HOVER;
             this.noteTextBox.Name = "noteTextBox";
             this.noteTextBox.PasswordChar = '\0';
@@ -487,14 +487,14 @@
             // 
             this.Course.Depth = 0;
             this.Course.Hint = "";
-            this.Course.Location = new System.Drawing.Point(69, 30);
+            this.Course.Location = new System.Drawing.Point(82, 30);
             this.Course.MouseState = MaterialSkin.MouseState.HOVER;
             this.Course.Name = "Course";
             this.Course.PasswordChar = '\0';
             this.Course.SelectedText = "";
             this.Course.SelectionLength = 0;
             this.Course.SelectionStart = 0;
-            this.Course.Size = new System.Drawing.Size(104, 23);
+            this.Course.Size = new System.Drawing.Size(88, 23);
             this.Course.TabIndex = 23;
             this.Course.UseSystemPasswordChar = false;
             // 
@@ -502,14 +502,14 @@
             // 
             this.professorTextBox.Depth = 0;
             this.professorTextBox.Hint = "";
-            this.professorTextBox.Location = new System.Drawing.Point(69, 58);
+            this.professorTextBox.Location = new System.Drawing.Point(82, 58);
             this.professorTextBox.MouseState = MaterialSkin.MouseState.HOVER;
             this.professorTextBox.Name = "professorTextBox";
             this.professorTextBox.PasswordChar = '\0';
             this.professorTextBox.SelectedText = "";
             this.professorTextBox.SelectionLength = 0;
             this.professorTextBox.SelectionStart = 0;
-            this.professorTextBox.Size = new System.Drawing.Size(104, 23);
+            this.professorTextBox.Size = new System.Drawing.Size(88, 23);
             this.professorTextBox.TabIndex = 24;
             this.professorTextBox.UseSystemPasswordChar = false;
             // 
@@ -517,7 +517,7 @@
             // 
             this.semester.Depth = 0;
             this.semester.Hint = "";
-            this.semester.Location = new System.Drawing.Point(69, 86);
+            this.semester.Location = new System.Drawing.Point(82, 86);
             this.semester.MouseState = MaterialSkin.MouseState.HOVER;
             this.semester.Name = "semester";
             this.semester.PasswordChar = '\0';
