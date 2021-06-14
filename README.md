@@ -7,7 +7,7 @@
  
 ![Basic Pizza Order System](./screenShot.gif?raw=true)
 
-Practice scope:
+Practice scope: 
 * Loading page
 * Buttons, ComboBox, labels, Textboxes, Radio Buttons, PictureBox, TableLayout
 * Dictionary, Queue
