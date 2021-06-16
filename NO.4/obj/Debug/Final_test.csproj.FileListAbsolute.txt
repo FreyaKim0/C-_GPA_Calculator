@@ -27,3 +27,17 @@ C:\Users\Freya\Desktop\Centennial College\semester2\programming2\Final_test\NO.4
 C:\Users\Freya\Desktop\Centennial College\semester2\programming2\Final_test\NO.4\obj\Debug\Final_test.csproj.CopyComplete
 C:\Users\Freya\Desktop\Centennial College\semester2\programming2\Final_test\NO.4\obj\Debug\NO.4.exe
 C:\Users\Freya\Desktop\Centennial College\semester2\programming2\Final_test\NO.4\obj\Debug\NO.4.pdb
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\bin\Debug\GPA_DB.mdf
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\bin\Debug\GPA_DB_log.ldf
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\bin\Debug\NO.4.exe.config
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\bin\Debug\NO.4.exe
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\bin\Debug\NO.4.pdb
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\Final_test.csproj.AssemblyReference.cache
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\NO._4.Form1.resources
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\NO._4.Properties.Resources.resources
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\NO._4.SplashScreen.resources
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\Final_test.csproj.GenerateResource.cache
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\Final_test.csproj.CoreCompileInputs.cache
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\Final_test.csproj.CopyComplete
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\NO.4.exe
+C:\Users\Freya Kim\Documents\GitHub\Project-GPA-calculator\NO.4\obj\Debug\NO.4.pdb

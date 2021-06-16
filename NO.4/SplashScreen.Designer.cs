@@ -77,7 +77,7 @@
             this.Controls.Add(this.materialLabel1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "SplashScreen";
-            this.Text = "Final Test - XuTung Jin";
+            this.Text = "Calculator";
             this.Load += new System.EventHandler(this.SplashScreen_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
