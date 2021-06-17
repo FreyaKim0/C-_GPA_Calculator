@@ -2,7 +2,7 @@
 **This is a WPF project for calculating college GPA. In this app:**
 * User can create, read, update and delete courses related values in grid. 
 * User can calculate GPA.
-* User can store value by using SQL Server Profiler
+* User can store value by SQL Server Profiler
  
 ![Basic Pizza Order System](./screenShot.gif?raw=true)
 
