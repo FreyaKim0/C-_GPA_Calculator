@@ -18,5 +18,5 @@ Practice scope:
 **This side exercise demostrates my underdstanding of WPF with entity framework6**
 * Practice scope includes DbCotext, DbSet<TEntity>, Code-First and LINQ.
  
-![Basic Pizza Order System](./screenShot.gif?raw=true)
+![Basic Pizza Order System](./screenShot_exercise.gif?raw=true)
 
