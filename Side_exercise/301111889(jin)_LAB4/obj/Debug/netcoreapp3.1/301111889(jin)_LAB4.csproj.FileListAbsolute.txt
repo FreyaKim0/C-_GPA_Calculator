@@ -1,0 +1,56 @@
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.exe
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.deps.json
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.runtimeconfig.json
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.runtimeconfig.dev.json
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.pdb
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.csproj.AssemblyReference.cache
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4_MarkupCompile.cache
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4_MarkupCompile.lref
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.g.resources
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.AssemblyInfoInputs.cache
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.AssemblyInfo.cs
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.csproj.CoreCompileInputs.cache
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.pdb
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.genruntimeconfig.cache
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\centennial\Centennial College\semester4\Comp212 -- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.csproj.CopyComplete
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.exe
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.deps.json
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.runtimeconfig.json
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.runtimeconfig.dev.json
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\301111889(jin)_LAB4.pdb
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.csproj.AssemblyReference.cache
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4_MarkupCompile.cache
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4_MarkupCompile.lref
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.g.resources
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.AssemblyInfoInputs.cache
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.AssemblyInfo.cs
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.csproj.CoreCompileInputs.cache
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.csproj.CopyComplete
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.dll
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.pdb
+D:\School\centennial\Centennial College\semester4\Comp212- programming3\lab4\301111889(jin)_LAB4\301111889(jin)_LAB4\obj\Debug\netcoreapp3.1\301111889(jin)_LAB4.genruntimeconfig.cache
