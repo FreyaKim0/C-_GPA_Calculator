@@ -13,3 +13,10 @@ Practice scope:
 * CRUD functionality
 * Binding gridview with text box
 * Connect to SQL Server Profiler 
+---------------------------------------------------------------------
+# Side exercise
+**This side exercise demostrates my underdstanding of WPF with entity framework6**
+* Practice scope includes DbCotext, DbSet<TEntity>, Code-First and LINQ.
+ 
+![Basic Pizza Order System](./screenShot.gif?raw=true)
+
